@@ -1,2 +1,2 @@
 # Foricity-Cane
-This is a google sites website that was made to explain my innovation.
+This is a google sites website that was made to explain my innovation. This project was made to help reduce injuries blind people can face in the winter season. I developed a smart cane called the foricity cane that can detect the difference between snow and ice and inform the user through 2 vibrating motors. This cane vibrates differently for snow and differently for ice. More information on the website.
